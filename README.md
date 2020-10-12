@@ -8,7 +8,6 @@
 
 
 <br />
-<br />
 
   <img align="right" alt="GIF" src="Assets/adventuretime.gif" />
   
@@ -48,5 +47,6 @@
 [![CPU](https://img.shields.io/badge/amd-Ryzen%205%201600AF-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white)](https://github.com/nkosi-tauro) 
 [![GPU](https://img.shields.io/badge/amd-Radeon%20RX%20580-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white)](https://github.com/nkosi-tauro) 
 
+<br />
 
-![Nkosi's github stats](https://github-readme-stats.vercel.app/api?username=nkosi-tauro&show_icons=true&theme=graywhite)
+![Nkosi's github stats](https://github-readme-stats.vercel.app/api?username=nkosi-tauro&show_icons=true&theme=buefy)
