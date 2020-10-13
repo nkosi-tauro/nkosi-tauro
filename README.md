@@ -2,18 +2,13 @@
 
 ### I'm Nkosi Tauro a Developer from Cape Town, South Africa.
 
-### Portfolio: https://nkositauro.me/
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkosi-tauro/) 
-
 
 <br />
 
   <img align="right" alt="GIF" src="Assets/adventuretime.gif" />
   
 ### 👨‍💻 Languages and Tools
-
-<br />
 
 
 [![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/nkosi-tauro) 
