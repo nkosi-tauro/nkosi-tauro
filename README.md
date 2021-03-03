@@ -1,6 +1,8 @@
-<img align="center" alt="GIF" src="Assets/kenobi.gif" />
+<p align="center">
+<img  alt="GIF" src="Assets/kenobi.gif"  width="607" height="220"/>
+</p>
 
-<hr/>
+<br/>
 
 ### I'm ~~General kenobi~~ Nkosilathi Tauro a Developer from Cape Town, South Africa.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkosi-tauro/)
