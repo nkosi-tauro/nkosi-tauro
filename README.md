@@ -6,7 +6,7 @@
 
 ### I'm ~~General kenobi~~ Nkosilathi Tauro a Developer from Cape Town, South Africa.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkosi-tauro/)
-<p>I have expertise in web development, data science and game development. I enjoy coding in Python , but overall I'm not fussy about what languages or stacks I work with</p>
+<p>I have expertise in software, data science and game development. I enjoy coding in JavaScript & Python , but overall I'm not fussy about what languages or stacks I work with</p>
 
 - 🌱 I’m currently pursuing **BSc Computer Science**.
 - 🔭 I’m currently working on:
@@ -45,4 +45,4 @@
 
 <br />
 
-![Nkosi's github stats](https://github-readme-stats.vercel.app/api?username=nkosi-tauro&show_icons=true&theme=buefy)
+![Nkosi's github stats](https://github-readme-stats.vercel.app/api?username=nkosi-tauro&show_icons=true&theme=midnight-purple)
