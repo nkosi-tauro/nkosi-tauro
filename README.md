@@ -10,8 +10,8 @@
 
 - 🌱 I’m currently pursuing **BSc Computer Science**.
 - 🔭 I’m currently working on:
-	- Dungeons & Dragons Wiki.
-  - Vue authentication with [Supabase](https://supabase.io/)
+  - My Norwegian language skills
+  - Vue authentication with JWT
 - 💡 I'm interested in all things software: **Web, Cloud, Mobile and Game dev**
 - 💬 Talk to me about programming 🖥, games 🎮, Memes, anything that interests you.
 - ⚡ **Fun fact:** 🍍pineapples do belong on pizza🍕.
