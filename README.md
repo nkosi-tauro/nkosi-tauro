@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently pursuing **BSc Computer Science**.
 - 🔭 I’m currently working on:
-  - My Norwegian language skills
+  - DevOps with [Docker](https://devopswithdocker.com/) & [Kubernetes](https://devopswithkubernetes.com/)
   - Vue authentication with JWT
 - 💡 I'm interested in all things software: **Web, Cloud, Mobile and Game dev**
 - 💬 Talk to me about programming 🖥, games 🎮, Memes, anything that interests you.
