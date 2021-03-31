@@ -9,6 +9,7 @@
 <p>I have expertise in software, data science and game development. I enjoy coding in JavaScript & Python , but overall I'm not fussy about what languages or stacks I work with</p>
 
 - 🌱 I’m currently pursuing **BSc Computer Science**.
+- 🪓 [MLH Fellow](https://nkosi-tauro.github.io/mlh-portfolio/) Fall '20 
 - 🔭 I’m currently working on:
   - DevOps with [Docker](https://devopswithdocker.com/) & [Kubernetes](https://devopswithkubernetes.com/)
   - Vue authentication with JWT
