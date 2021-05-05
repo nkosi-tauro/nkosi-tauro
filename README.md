@@ -11,7 +11,7 @@
 - 🌱 I’m currently pursuing **BSc Computer Science**.
 - 🪓 [MLH Fellow](https://nkosi-tauro.github.io/mlh-portfolio/) Fall '20 
 - 🔭 I’m currently working on:
-  - DevOps with [Docker](https://devopswithdocker.com/) & [Kubernetes](https://devopswithkubernetes.com/)
+  - [Nest.js](https://nestjs.com/) & DevOps with [Docker](https://devopswithdocker.com/)
   - Vue authentication with JWT
 - 💡 I'm interested in all things software: **Web, Cloud, Mobile and Game dev**
 - 💬 Talk to me about programming 🖥, games 🎮, Memes, anything that interests you.
