@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkosi-tauro/)
 <p>I have expertise in software, data science and game development. I enjoy coding in JavaScript & Python , but overall I'm not fussy about what languages or stacks I work with</p>
 
-- 🌱 I’m currently pursuing **BSc Computer Science**.
+- 💼 I'm a Full-Stack Developer @[GrapeAlliance](https://grapealliance.com/).
 - 🪓 [MLH Fellow](https://nkosi-tauro.github.io/mlh-portfolio/) Fall '20 
 - 🔭 I’m currently working on:
   - [Nest.js](https://nestjs.com/) & DevOps with [Docker](https://devopswithdocker.com/)
